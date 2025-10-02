@@ -6,7 +6,7 @@ Cảm ơn bạn đã quan tâm đến việc đóng góp cho Hệ Thống Thiế
 1. Fork dự án này.
 2. Tạo nhánh mới (`git checkout -b feature/YourFeatureName`).
 3. Thực hiện các thay đổi của bạn.
-4. Commit các thay đổi (`git commit -m 'Add new feature'`).
+4. Commit các thay đổi (`git commit -m 'Thêm tính năng mới'`).
 5. Push đến nhánh của bạn (`git push origin feature/YourFeatureName`).
 6. Tạo Pull Request.
 7. Chờ phản hồi từ người duyệt mã và thực hiện các thay đổi nếu cần.
