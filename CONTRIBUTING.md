@@ -22,3 +22,4 @@ Cảm ơn bạn vì đã giúp cải thiện Hệ Thống Thiết Kế Động!
 - Nếu bạn gặp sự cố hoặc có đề xuất, hãy chắc chắn mở một vấn đề (issue) để chúng tôi có thể hỗ trợ bạn kịp thời.
 - Hãy luôn cập nhật với các thay đổi của dự án trước khi bắt đầu làm việc trên tính năng mới.
 - **Chú ý:** Đặt tên cho nhánh của bạn theo cấu trúc `feature/YourFeatureName` để dễ nhận diện.
+- Hãy chú ý đến việc tái sử dụng mã nguồn và các thư viện mở khi có thể.
