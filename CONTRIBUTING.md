@@ -18,6 +18,7 @@ Cảm ơn bạn đã quan tâm đến việc đóng góp cho Hệ Thống Thiế
 
 Cảm ơn bạn vì đã giúp cải thiện Hệ Thống Thiết Kế Động!
 
-- **Lưu ý:** Nếu có bất kỳ câu hỏi nào, đừng ngần ngại liên hệ với nhóm phát triển hoặc mở một vấn đề (issue) để nhận hỗ trợ.
+- **Lưu ý:** Nếu bạn có bất kỳ câu hỏi nào, đừng ngần ngại liên hệ với nhóm phát triển hoặc mở một vấn đề (issue) để nhận hỗ trợ.
 - Nếu bạn gặp sự cố hoặc có đề xuất, hãy chắc chắn mở một vấn đề (issue) để chúng tôi có thể hỗ trợ bạn kịp thời.
 - Hãy luôn cập nhật với các thay đổi của dự án trước khi bắt đầu làm việc trên tính năng mới.
+- **Chú ý:** Đặt tên cho nhánh của bạn theo cấu trúc `feature/YourFeatureName` để dễ nhận diện.
