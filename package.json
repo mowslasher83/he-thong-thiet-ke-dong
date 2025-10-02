@@ -8,6 +8,6 @@
     "test": "jest"
   },
   "keywords": ["design system", "UI components", "Vietnamese"],
-  "author": "Your Name",
+  "author": "John Doe",
   "license": "MIT"
 }
