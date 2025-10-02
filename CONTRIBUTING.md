@@ -12,7 +12,7 @@ Cảm ơn bạn đã quan tâm đến việc đóng góp cho Hệ Thống Thiế
 
 ## Những điều cần nhớ
 - Hãy chắc chắn rằng mã nguồn của bạn không chứa lỗi và đã được kiểm tra.
-- Viết tài liệu nếu cần thiết.
+- Viết tài liệu nếu cần thiết cho các thay đổi của bạn.
 - Tôn trọng các quy tắc mã hóa của dự án.
 
 Cảm ơn bạn vì đã giúp cải thiện Hệ Thống Thiết Kế Động!
