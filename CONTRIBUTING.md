@@ -9,6 +9,7 @@ Cảm ơn bạn đã quan tâm đến việc đóng góp cho Hệ Thống Thiế
 4. Commit các thay đổi (`git commit -m 'Add new feature'`).
 5. Push đến nhánh của bạn (`git push origin feature/YourFeatureName`).
 6. Tạo Pull Request.
+7. Chờ phản hồi từ người duyệt mã và thực hiện các thay đổi nếu cần.
 
 ## Những điều cần nhớ
 - Hãy chắc chắn rằng mã nguồn của bạn không chứa lỗi và đã được kiểm tra.
