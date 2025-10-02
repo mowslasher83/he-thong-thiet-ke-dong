@@ -16,4 +16,6 @@ Cảm ơn bạn đã quan tâm đến việc đóng góp cho Hệ Thống Thiế
 - Viết tài liệu nếu cần thiết cho các thay đổi của bạn.
 - Tôn trọng các quy tắc mã hóa của dự án.
 
-Cảm ơn bạn vì đã giúp cải thiện Hệ Thống Thiết Kế Động!
+Cảm ơn bạn vì đã giúp cải thiện Hệ Thống Thiết Kế Động! 
+
+- **Lưu ý:** Nếu có bất kỳ câu hỏi nào, đừng ngần ngại liên hệ với nhóm phát triển hoặc mở một vấn đề (issue) để nhận hỗ trợ.
